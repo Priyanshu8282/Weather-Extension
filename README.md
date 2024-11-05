@@ -3,8 +3,8 @@
 A Chrome extension that displays the current weather conditions (temperature, wind speed, and humidity) for a specified city. Built with React and powered by the OpenWeatherMap API.
 
 # Table of Contents
-Features
-Setup Instructions
+- Features
+- Setup Instructions
 Usage
 Technologies
 Folder Structure
