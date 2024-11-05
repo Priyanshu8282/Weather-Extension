@@ -1,17 +1,17 @@
-# Weather Extension 🌤️
-
+Weather Extension 🌤️
 A Chrome extension that displays the current weather conditions (temperature, wind speed, and humidity) for a specified city. Built with React and powered by the OpenWeatherMap API.
 
-# Table of Contents
-- Features
-- Setup Instructions
-- Usage
-- Technologies
-- Folder Structure
-- API Integration
-#dndj Features
--  Displays the current temperature, wind speed, and humidity for the chosen location.
--   Lightweight and easy to use in a Chrome browser.
+Table of Contents
+Features
+Setup Instructions
+Usage
+Technologies
+Folder Structure
+API Integration
+License
+Features
+Displays the current temperature, wind speed, and humidity for the chosen location.
+Lightweight and easy to use in a Chrome browser.
 Setup Instructions
 1. Get an API Key
 Sign up at OpenWeatherMap (or another weather API provider).
@@ -19,7 +19,7 @@ Obtain an API key to use in the extension.
 2. Clone the Repository
 bash
 Copy code
-git clone https://github.com/Priyanshu8282/Weather-Extension.git
+git clone https://github.com/yourusername/weather-extension.git
 cd weather-extension
 3. Install Dependencies
 Install the necessary dependencies:
