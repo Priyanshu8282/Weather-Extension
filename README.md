@@ -9,7 +9,7 @@ A Chrome extension that displays the current weather conditions (temperature, wi
 - Technologies
 - Folder Structure
 - API Integration
-- Features
+#dndj Features
 -  Displays the current temperature, wind speed, and humidity for the chosen location.
 -   Lightweight and easy to use in a Chrome browser.
 Setup Instructions
