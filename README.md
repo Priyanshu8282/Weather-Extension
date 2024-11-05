@@ -19,7 +19,7 @@ Obtain an API key to use in the extension.
 2. Clone the Repository
 bash
 Copy code
-git clone https://github.com/yourusername/weather-extension.git
+git clone https://github.com/Priyanshu8282/Weather-Extension.git
 cd weather-extension
 3. Install Dependencies
 Install the necessary dependencies:
