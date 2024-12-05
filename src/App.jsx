@@ -1,5 +1,5 @@
 import React from 'react'
-import WeatherPopup from './components/weatherPopup'
+import WeatherPopup from './components/WeatherPopup.jsx'
 
 function App() {
   return (
